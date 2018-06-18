@@ -1,0 +1,14 @@
+{
+    "name": "internetguru/TreePresenter",
+    "authors": [
+        {
+            "name": "Pavel Petrzela",
+            "email": "pavel.petrzela@internetguru.cz"
+        },
+        {
+            "name": "Ondrej Duchon",
+            "email": "duchoond@fit.cvut.cz"
+        }
+    ],
+    "require": {}
+}
